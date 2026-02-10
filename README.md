@@ -20,8 +20,5 @@ Overall, TopoNet follows an encoder–decoder paradigm, where multimodal feature
 <img width="9232" height="4320" alt="最终图-总体模型（图4）" src="https://github.com/user-attachments/assets/f1330e6e-ce59-47d3-a9c9-9e2fab87cfee" />
 
 ## Authors
-** Jia Liu, Zihang Liu, Xing Gao, Yuming Wu, Zhitao Wei, Jiaye Yao**
+**Jia Liu, Zihang Liu, Xing Gao, Yuming Wu, Zhitao Wei, Jiaye Yao**
 
-## Citation
-
-**Liu, Z., Liu, J., Gao, X., Wu, Y., Wei, Z., & Yao, J. (2026).** *TopoNet: A Topography-Aware Deep Network with Adaptive Gating for Co-Seismic Landslide Detection* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18112698
